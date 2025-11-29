@@ -19,3 +19,4 @@ Para evitar erros de "comando não encontrado" ou "arquivo não encontrado", rec
 Passo 1: Abra o seu terminal (CMD, PowerShell ou VS Code).
 Passo 2: Digite o comando abaixo, substituindo pelo local onde você salvou o arquivo:
 python -m streamlit run "C:\Caminho\Para\O\Arquivo\calculadora.py"
+- No Windows, você pode digitar python -m streamlit run , dar um espaço, e arrastar o arquivo calculadora.py para dentro da janela do terminal. Ele preencherá o caminho completo automaticamente
